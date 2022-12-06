@@ -1,0 +1,43 @@
+
+{
+    "_createdAt": "2022-09-12T09:52:05.145Z",
+    "_id": "d4FQCuhpRsmRNjZR8EAzOg",
+    "_modifiedAt": "2022-09-12T12:55:04.169Z",
+    "_observedAt": "2022-09-12T12:56:34.043Z",
+    "_startedAt": "2022-09-12T12:55:04.169Z",
+    "app": "ilender-application",
+    "beginTime": 1662987304169,
+    "changeTime": 1662987304169,
+    "chart": "N/A",
+    "createTime": 1662976325145,
+    "createdReplicas": 1,
+    "creationTimestamp": "2022-09-12T09:50:41Z",
+    "dataCenter": "ilender-dc1",
+    "datastore": "N/A",
+    "deployment_uid": "f35675ff-be21-4851-a892-3cd1a5f7721b",
+    "desiredReplicas": 1,
+    "entityTypes": [
+        "deployment"
+    ],
+    "generation": 1,
+    "lastBroadcastTime": "2022-09-12T12:55:04.169Z",
+    "matchTokens": [
+        "f35675ff-be21-4851-a892-3cd1a5f7721b",
+        "ilender-user"
+    ],
+    "micro": "N/A",
+    "name": "ilender-user",
+    "namespace": "ilender-ns",
+    "observedTime": 1662987394043,
+    "release": "N/A",
+    "resourceVersion": "14417247",
+    "tags": [
+        "app:ilender-application",
+        "ilender-dc1",
+        "namespace:ilender-ns"
+    ],
+    "tier": "N/A",
+    "uniqueId": "f35675ff-be21-4851-a892-3cd1a5f7721b",
+    "updatedReplicas": 1,
+    "vertexType": "resource"
+}
