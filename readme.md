@@ -1,8 +1,8 @@
-# Toplogy Match Tokens
+# Topology Match Tokens
 
 This document gives insights about Topology Match Tokens.
 
-The detailed documentation about defining merge rules is availabe in IBM documentation https://www.ibm.com/docs/en/cloud-paks/cloud-pak-watson-aiops/3.4.2?topic=elements-configuring-rules
+The detailed documentation about defining merge rules is available in IBM documentation https://www.ibm.com/docs/en/cloud-paks/cloud-pak-watson-aiops/3.4.2?topic=elements-configuring-rules
 
 ## 1. Create Match Token
 
